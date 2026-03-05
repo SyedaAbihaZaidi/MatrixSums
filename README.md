@@ -14,6 +14,10 @@ Concepts Used:
 - Loops
 - Scanner class for input
 
+## Program Output
+
+![Matrix Output](https://raw.githubusercontent.com/SyedaAbihaZaidi/MatrixSums/main/matrix-output.png)
+
 Author: Abiha Zaidi
 Language: Java
-[![Uploading image.png…]()](https://github.com/SyedaAbihaZaidi/MatrixSums/blob/main/matrix-output.png)
+
