@@ -1,2 +1,18 @@
-# MatrixSums
-Matrix Row, Column, and Diagonal Sum in Java  This Java program allows the user to input a matrix and calculates:  Sum of each row  Sum of each column  Sum of the forward (main) diagonal  Sum of the reverse (anti) diagonal  The program uses 2D arrays and loops to process matrix elements and display the results.
+# Matrix Sums in Java
+
+This project contains a Java program that performs operations on a matrix.
+
+Features:
+- Accepts matrix input from the user
+- Calculates sum of each row
+- Calculates sum of each column
+- Calculates forward diagonal sum
+- Calculates reverse diagonal sum
+
+Concepts Used:
+- Java 2D Arrays
+- Loops
+- Scanner class for input
+
+Author: Abiha Zaidi
+Language: Java
