@@ -16,4 +16,4 @@ Concepts Used:
 
 Author: Abiha Zaidi
 Language: Java
-![Uploading image.png…]()
+[![Uploading image.png…]()](https://github.com/SyedaAbihaZaidi/MatrixSums/blob/main/matrix-output.png)
